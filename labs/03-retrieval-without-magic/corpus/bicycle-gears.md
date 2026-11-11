@@ -1,0 +1,7 @@
+# Bicycle Gearing: Ratios, Cadence and Climbing
+
+A bicycle's gear ratio is the number of teeth on the front chainring divided by the number on the rear sprocket. A 34-tooth chainring driving a 17-tooth sprocket gives a ratio of 2.0, meaning the rear wheel turns twice for every full turn of the cranks. Multiply the ratio by the wheel's circumference and you get the distance travelled per pedal revolution, sometimes called the development. Riders comparing setups across different wheel sizes use gear inches, the ratio multiplied by the wheel diameter in inches.
+
+Cadence — pedalling speed in revolutions per minute — is the other half of the system. Most riders are most efficient between 80 and 95 rpm on the flat. Beginning climbers often grind at 50 rpm in too hard a gear, which loads the knees and exhausts the legs; the better strategy is to shift down early and keep cadence above 70 rpm on a climb, accepting a slower speed in exchange for sustainable effort. A climbing gear of 1.0 or lower — a 34 chainring with a 34 sprocket, for instance — exists precisely to make that possible on steep grades.
+
+Modern drivetrains offer ten to twelve rear sprockets, but the useful range is set by the extremes: the lowest gear decides the steepest hill you can climb seated, and the highest decides when you spin out on a descent. Cross-chaining — using the largest chainring with the largest sprocket — wears the drivetrain and is avoided; the middle of the cassette is where a rider spends most of a ride.

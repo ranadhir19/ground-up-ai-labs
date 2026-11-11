@@ -1,0 +1,7 @@
+# Working Knots: Loops, Bends and Hitches
+
+The bowline is the sailor's fixed loop: it forms an eye that will not slip or shrink under load, yet can always be untied afterwards, even after heavy strain. Its structure is a loop in the standing part through which the working end passes, travels around the standing line, and returns — "the rabbit comes out of the hole, round the tree, and back down the hole." A bowline that must hold a person is backed up with a stopper knot in the tail, because the knot can work loose if the loop is loaded and unloaded rhythmically.
+
+The figure-eight knot serves two lives. Tied in a single line it is a stopper, bulkier and kinder to rope than an overhand knot and far easier to untie after loading. Retraced through a harness or around an anchor, the figure-eight follow-through becomes the standard tie-in knot for climbers precisely because it is easy to inspect: a correct one looks unmistakable, and partners check each other's knots at a glance.
+
+Hitches attach a rope to an object. The trucker's hitch is really a small system — a loop in the standing part gives a crude two-to-one purchase for tensioning a line over a load, finished with two half hitches. The round turn and two half hitches is the quiet workhorse for mooring and tying fenders: the round turn takes the strain on the rail or post, and the hitches merely keep it there. Every knot costs strength — a knot typically leaves rope at 60 to 75 percent of its unknotted breaking strain — which is why working loads are derated generously.

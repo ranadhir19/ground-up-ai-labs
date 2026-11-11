@@ -1,0 +1,7 @@
+# Immersion Coffee: The Quiet Method
+
+Immersion brewing — the cafetière or French press, and its modern cousins — steeps ground coffee in the full volume of water for the whole brew, instead of passing water through a bed of grounds. There is no flow to channel and no technique to speak of: coffee, water, time, and a separation at the end. A common starting recipe is 60 grams of coffee per litre of water, coarse-ground, steeped four minutes before the plunger goes down slowly, mostly to keep the grounds settled rather than to squeeze anything out of them.
+
+Because all the water touches all the coffee for all the time, immersion is forgiving of grind inconsistency — and correspondingly hard to over-extract into harshness, though a very long steep will go flat and woody as the desirable compounds fade into the general population. The trade is clarity: without a paper filter, fine particles and coffee oils reach the cup, giving body and mouthfeel at the cost of some brightness, and a silt at the bottom that seasoned drinkers simply leave behind.
+
+The commonest fault is leaving the brewed coffee sitting on its grounds, where extraction continues and the cup stewing in the press muddies by the minute. Decant the whole brew into a second vessel when the steep ends. The second fault is stale beans, which no method forgives; the third is water straight off a rolling boil scalding nothing in particular — coffee forgives temperature between about 90 and 96 degrees without complaint, because immersion's long contact evens out what percolation would punish.

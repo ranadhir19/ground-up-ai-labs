@@ -1,0 +1,407 @@
+{
+  "lab": "03-retrieval-without-magic",
+  "documents": 20,
+  "questions": 26,
+  "whole": {
+    "overall": {
+      "n": 26,
+      "recall@1": 1.0,
+      "recall@3": 1.0
+    },
+    "direct": {
+      "n": 20,
+      "recall@1": 1.0,
+      "recall@3": 1.0
+    },
+    "paraphrase": {
+      "n": 6,
+      "recall@1": 1.0,
+      "recall@3": 1.0
+    },
+    "rows": [
+      {
+        "q": "What ratio of greens to browns should a compost pile have?",
+        "doc": "composting.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "composting.md"
+      },
+      {
+        "q": "Why does a compost pile smell of ammonia and how do you fix it?",
+        "doc": "composting.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "composting.md"
+      },
+      {
+        "q": "How do you calculate a bicycle gear ratio from the chainring and sprocket?",
+        "doc": "bicycle-gears.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "bicycle-gears.md"
+      },
+      {
+        "q": "What cadence should a cyclist keep when climbing?",
+        "doc": "bicycle-gears.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "bicycle-gears.md"
+      },
+      {
+        "q": "What dose and yield ratio defines a standard espresso shot?",
+        "doc": "espresso.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "espresso.md"
+      },
+      {
+        "q": "What is a first-flush diverter for in a rainwater system?",
+        "doc": "rainwater.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "rainwater.md"
+      },
+      {
+        "q": "How can you tell capped brood from capped honey on a frame?",
+        "doc": "beekeeping.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "beekeeping.md"
+      },
+      {
+        "q": "What do telltales on a sail tell you about trim?",
+        "doc": "sail-trim.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "sail-trim.md"
+      },
+      {
+        "q": "How often should a sourdough starter be fed, and what is the float test?",
+        "doc": "sourdough.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "sourdough.md"
+      },
+      {
+        "q": "How many days of autonomy should a battery bank hold, and how is it sized?",
+        "doc": "solar-sizing.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "solar-sizing.md"
+      },
+      {
+        "q": "What material lowers soil pH for acid-loving plants?",
+        "doc": "soil-ph.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "soil-ph.md"
+      },
+      {
+        "q": "Which knot forms a fixed loop that will not slip under load?",
+        "doc": "knots.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "knots.md"
+      },
+      {
+        "q": "What is first crack in coffee roasting and what happens after it?",
+        "doc": "coffee-roasting.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "coffee-roasting.md"
+      },
+      {
+        "q": "What does R-value measure in insulation?",
+        "doc": "insulation.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "insulation.md"
+      },
+      {
+        "q": "Why are pond fish found gasping at the surface early in the morning?",
+        "doc": "pond-ecology.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "pond-ecology.md"
+      },
+      {
+        "q": "Why does Greenland look as big as Africa on a Mercator map?",
+        "doc": "map-projections.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "map-projections.md"
+      },
+      {
+        "q": "My morning shot tastes sour and rushes out in ten seconds \u2014 what went wrong?",
+        "doc": "espresso.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "espresso.md"
+      },
+      {
+        "q": "I need the lights and fridge to survive a long grey spell with barely any sun \u2014 how much stored power is enough?",
+        "doc": "solar-sizing.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "solar-sizing.md"
+      },
+      {
+        "q": "My blueberry bushes keep yellowing even though I feed them \u2014 what hidden soil property should I check?",
+        "doc": "soil-ph.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "soil-ph.md"
+      },
+      {
+        "q": "The water in my garden pond turned green and cloudy a week after I started feeding the fish more \u2014 why?",
+        "doc": "pond-ecology.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "pond-ecology.md"
+      },
+      {
+        "q": "What is a SCOBY and what does it do in kombucha?",
+        "doc": "kombucha.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "kombucha.md"
+      },
+      {
+        "q": "Why should aquarium filter media be rinsed in tank water rather than tap water?",
+        "doc": "aquarium.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "aquarium.md"
+      },
+      {
+        "q": "How deep should the soil in a raised bed be for root vegetables?",
+        "doc": "raised-beds.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "raised-beds.md"
+      },
+      {
+        "q": "What does a hydrometer measure in homebrewing, and how does it give the alcohol content?",
+        "doc": "homebrewing.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "homebrewing.md"
+      },
+      {
+        "q": "The jar on my counter smells vinegary and the culture in it looks stringy \u2014 is something wrong with it?",
+        "doc": "kombucha.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "kombucha.md"
+      },
+      {
+        "q": "My tank water went cloudy straight after I replaced the filter sponges \u2014 did I break something?",
+        "doc": "aquarium.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "aquarium.md"
+      }
+    ]
+  },
+  "chunked": {
+    "overall": {
+      "n": 26,
+      "recall@1": 0.9231,
+      "recall@3": 1.0
+    },
+    "direct": {
+      "n": 20,
+      "recall@1": 1.0,
+      "recall@3": 1.0
+    },
+    "paraphrase": {
+      "n": 6,
+      "recall@1": 0.6667,
+      "recall@3": 1.0
+    },
+    "rows": [
+      {
+        "q": "What ratio of greens to browns should a compost pile have?",
+        "doc": "composting.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "composting.md"
+      },
+      {
+        "q": "Why does a compost pile smell of ammonia and how do you fix it?",
+        "doc": "composting.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "composting.md"
+      },
+      {
+        "q": "How do you calculate a bicycle gear ratio from the chainring and sprocket?",
+        "doc": "bicycle-gears.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "bicycle-gears.md"
+      },
+      {
+        "q": "What cadence should a cyclist keep when climbing?",
+        "doc": "bicycle-gears.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "bicycle-gears.md"
+      },
+      {
+        "q": "What dose and yield ratio defines a standard espresso shot?",
+        "doc": "espresso.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "espresso.md"
+      },
+      {
+        "q": "What is a first-flush diverter for in a rainwater system?",
+        "doc": "rainwater.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "rainwater.md"
+      },
+      {
+        "q": "How can you tell capped brood from capped honey on a frame?",
+        "doc": "beekeeping.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "beekeeping.md"
+      },
+      {
+        "q": "What do telltales on a sail tell you about trim?",
+        "doc": "sail-trim.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "sail-trim.md"
+      },
+      {
+        "q": "How often should a sourdough starter be fed, and what is the float test?",
+        "doc": "sourdough.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "sourdough.md"
+      },
+      {
+        "q": "How many days of autonomy should a battery bank hold, and how is it sized?",
+        "doc": "solar-sizing.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "solar-sizing.md"
+      },
+      {
+        "q": "What material lowers soil pH for acid-loving plants?",
+        "doc": "soil-ph.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "soil-ph.md"
+      },
+      {
+        "q": "Which knot forms a fixed loop that will not slip under load?",
+        "doc": "knots.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "knots.md"
+      },
+      {
+        "q": "What is first crack in coffee roasting and what happens after it?",
+        "doc": "coffee-roasting.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "coffee-roasting.md"
+      },
+      {
+        "q": "What does R-value measure in insulation?",
+        "doc": "insulation.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "insulation.md"
+      },
+      {
+        "q": "Why are pond fish found gasping at the surface early in the morning?",
+        "doc": "pond-ecology.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "pond-ecology.md"
+      },
+      {
+        "q": "Why does Greenland look as big as Africa on a Mercator map?",
+        "doc": "map-projections.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "map-projections.md"
+      },
+      {
+        "q": "My morning shot tastes sour and rushes out in ten seconds \u2014 what went wrong?",
+        "doc": "espresso.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "espresso.md"
+      },
+      {
+        "q": "I need the lights and fridge to survive a long grey spell with barely any sun \u2014 how much stored power is enough?",
+        "doc": "solar-sizing.md",
+        "kind": "paraphrase",
+        "rank": 2,
+        "top1": "windsurfing.md"
+      },
+      {
+        "q": "My blueberry bushes keep yellowing even though I feed them \u2014 what hidden soil property should I check?",
+        "doc": "soil-ph.md",
+        "kind": "paraphrase",
+        "rank": 2,
+        "top1": "raised-beds.md"
+      },
+      {
+        "q": "The water in my garden pond turned green and cloudy a week after I started feeding the fish more \u2014 why?",
+        "doc": "pond-ecology.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "pond-ecology.md"
+      },
+      {
+        "q": "What is a SCOBY and what does it do in kombucha?",
+        "doc": "kombucha.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "kombucha.md"
+      },
+      {
+        "q": "Why should aquarium filter media be rinsed in tank water rather than tap water?",
+        "doc": "aquarium.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "aquarium.md"
+      },
+      {
+        "q": "How deep should the soil in a raised bed be for root vegetables?",
+        "doc": "raised-beds.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "raised-beds.md"
+      },
+      {
+        "q": "What does a hydrometer measure in homebrewing, and how does it give the alcohol content?",
+        "doc": "homebrewing.md",
+        "kind": "direct",
+        "rank": 1,
+        "top1": "homebrewing.md"
+      },
+      {
+        "q": "The jar on my counter smells vinegary and the culture in it looks stringy \u2014 is something wrong with it?",
+        "doc": "kombucha.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "kombucha.md"
+      },
+      {
+        "q": "My tank water went cloudy straight after I replaced the filter sponges \u2014 did I break something?",
+        "doc": "aquarium.md",
+        "kind": "paraphrase",
+        "rank": 1,
+        "top1": "aquarium.md"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+# Raised Beds: Soil You Build Yourself
+
+A raised bed is a garden with the soil problem outsourced: instead of amending whatever the site offers, you fill a frame with a mix you choose. Depth decides what you can grow — 20 centimetres suffices for salads and herbs, 30 to 45 centimetres suits most vegetables, and root crops like carrots and parsnips want the deeper end of that range plus a loose, stone-free fill, because a carrot that meets a stone forks around it.
+
+The classic fill is roughly three parts topsoil to one part compost, with the proportions argued about endlessly. What is not argued: beds lose volume. Organic matter decomposes, the level drops a few centimetres a year, and the annual ritual is topping up with compost each spring, which conveniently is also the feeding. Because the soil is uncompacted — nobody stands in a raised bed — it stays friable and drains freely, which is the point and also the cost: raised beds dry out faster than ground-level soil and need watering more often in a dry summer.
+
+Frames rot from the inside out. Timber in permanent contact with damp soil has a finite life even when treated, so builders line the inside faces with plastic sheeting to keep soil off the wood, or choose masonry, steel or recycled plastic from the start. The bed's other quiet advantage is temperature: raised soil warms earlier in spring than the ground it sits on, buying the season a week or two at exactly the end of the year when a week matters.

@@ -1,0 +1,123 @@
+{
+  "lab": "01-what-a-call-costs",
+  "client_source": "stand-in (modelled latency)",
+  "rates_usd_per_million": {
+    "input": 0.5,
+    "output": 2.0
+  },
+  "lean": {
+    "calls": 12,
+    "prompt_tokens": 222,
+    "completion_tokens": 1473,
+    "cost_usd": 0.003057,
+    "latency_mean_ms": 529.2,
+    "latency_p95_ms": 748.8
+  },
+  "bloated": {
+    "calls": 12,
+    "prompt_tokens": 2526,
+    "completion_tokens": 1473,
+    "cost_usd": 0.004209,
+    "latency_mean_ms": 558.0,
+    "latency_p95_ms": 848.0
+  },
+  "instruction_overhead": {
+    "extra_prompt_tokens": 2304,
+    "extra_prompt_tokens_pct_of_lean": 1037.8,
+    "extra_cost_usd": 0.001152,
+    "extra_cost_pct": 37.7
+  },
+  "most_input_dominated_call": {
+    "prompt": "Give a one-line review of an imaginary restaurant called The Salt Oak.",
+    "prompt_tokens": 214,
+    "completion_tokens": 44,
+    "latency_ms": 253.4,
+    "cost_usd": 0.000195
+  },
+  "per_prompt": [
+    {
+      "prompt": "Summarise the plot of a mystery novel in two sentences.",
+      "prompt_tokens": 18,
+      "completion_tokens": 184,
+      "latency_ms": 693.2,
+      "cost_usd": 0.000377
+    },
+    {
+      "prompt": "Give me a three-step plan to change a bicycle tyre.",
+      "prompt_tokens": 20,
+      "completion_tokens": 149,
+      "latency_ms": 567.4,
+      "cost_usd": 0.000308
+    },
+    {
+      "prompt": "What is the difference between a virus and a bacterium?",
+      "prompt_tokens": 18,
+      "completion_tokens": 114,
+      "latency_ms": 616.7,
+      "cost_usd": 0.000237
+    },
+    {
+      "prompt": "Write a haiku about rain on a tin roof.",
+      "prompt_tokens": 17,
+      "completion_tokens": 149,
+      "latency_ms": 748.8,
+      "cost_usd": 0.0003065
+    },
+    {
+      "prompt": "List five uses for a paperclip that are not holding paper.",
+      "prompt_tokens": 19,
+      "completion_tokens": 184,
+      "latency_ms": 821.3,
+      "cost_usd": 0.0003775
+    },
+    {
+      "prompt": "Explain photosynthesis to a ten-year-old.",
+      "prompt_tokens": 17,
+      "completion_tokens": 149,
+      "latency_ms": 560.3,
+      "cost_usd": 0.0003065
+    },
+    {
+      "prompt": "Draft a polite email declining a meeting invitation.",
+      "prompt_tokens": 16,
+      "completion_tokens": 44,
+      "latency_ms": 223.4,
+      "cost_usd": 9.6e-05
+    },
+    {
+      "prompt": "What are the primary colours, and why those three?",
+      "prompt_tokens": 18,
+      "completion_tokens": 114,
+      "latency_ms": 456.3,
+      "cost_usd": 0.000237
+    },
+    {
+      "prompt": "Give a one-line review of an imaginary restaurant called The Salt Oak.",
+      "prompt_tokens": 22,
+      "completion_tokens": 44,
+      "latency_ms": 256.1,
+      "cost_usd": 9.9e-05
+    },
+    {
+      "prompt": "Describe how to make a cup of tea, step by step.",
+      "prompt_tokens": 20,
+      "completion_tokens": 114,
+      "latency_ms": 469.2,
+      "cost_usd": 0.000238
+    },
+    {
+      "prompt": "Name three animals that change colour with the seasons.",
+      "prompt_tokens": 17,
+      "completion_tokens": 149,
+      "latency_ms": 578.4,
+      "cost_usd": 0.0003065
+    },
+    {
+      "prompt": "Write a single sentence that uses the word 'ledger' naturally.",
+      "prompt_tokens": 20,
+      "completion_tokens": 79,
+      "latency_ms": 359.3,
+      "cost_usd": 0.000168
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Map Projections: Every Flat Map Is a Compromise
+
+The Earth is a sphere and paper is not, so every flat map distorts something: area, shape, distance or direction. A projection is a choice about which truth to keep. The Mercator projection, designed in 1569 for sailors, preserves angles and therefore compass bearings — a straight line on a Mercator chart is a line of constant bearing, which is why it conquered navigation. Its price is area: landmasses inflate with latitude, so Greenland, at 2.2 million square kilometres, sprawls to a size that looks comparable to Africa, which is actually some fourteen times larger at 30 million.
+
+Equal-area projections make the opposite bargain. The Gall–Peters and Mollweide projections show every country at its true relative size, so Africa regains its proper dominance — but shapes stretch and shear, particularly near the edges, and coastlines look subtly wrong to eyes raised on Mercator. Conic projections, drawn as if a cone were wrapped around the globe, suit mid-latitude continents like North America, keeping both area and shape errors small across the region the map is actually for.
+
+There is no correct projection, only a correct match between a map's job and its distortion. Weather maps prize local shape and direction; atlases comparing countries prize area; a map of polar flight routes needs the pole at its centre, which neither Mercator nor Peters can give. The honest question for any flat map is not "is it accurate?" but "what did its maker decide to sacrifice, and does my use care?"

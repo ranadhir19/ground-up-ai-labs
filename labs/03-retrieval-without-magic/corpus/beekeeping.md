@@ -1,0 +1,7 @@
+# First-Year Beekeeping: Inspections and the Brood Box
+
+A new colony lives in a brood box, and the beekeeper's job in the first year is mostly to watch it grow without getting in its way. Inspections every seven to ten days in spring are enough: lift the lid on a calm, warm day, use a puff of smoke to quiet the bees, and work from the outermost frame inward. You are looking for the pattern of the brood nest — a solid slab of capped brood in the centre frames, ringed by pollen and then honey — and for eggs, tiny white grains standing in the base of cells, which prove the queen is present and laying even if you never spot her.
+
+Capped brood is sealed under tan, slightly domed wax cappings; capped honey, by contrast, sits under paler, flatter cappings and usually in the corners and top edges of frames. A healthy brood pattern is compact, with few empty cells in the slab. A scattered, pepper-pot pattern can mean an ageing queen, disease, or a colony that has swarmed and requeened itself badly — worth a closer look and, for a beginner, a phone call to a mentor.
+
+When bees occupy seven of the ten frames, it is time to add the next box. In the first year that is usually a second brood box rather than honey supers: the colony needs room to raise the population that will survive its first winter. Feed sugar syrup in spring if the bees are light on stores, keep the entrance reduced against wasps in late summer, and record every inspection — memory flatters, notebooks don't.

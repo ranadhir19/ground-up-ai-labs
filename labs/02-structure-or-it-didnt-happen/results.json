@@ -1,0 +1,61 @@
+{
+  "lab": "02-structure-or-it-didnt-happen",
+  "cases": 200,
+  "seed": 20261110,
+  "defect_mix": {
+    "prose-wrapper": 17,
+    "missing-field": 13,
+    "boolean-as-word": 16,
+    "clean": 115,
+    "trailing-comma": 19,
+    "number-as-string": 13,
+    "tags-as-string": 7
+  },
+  "naive": {
+    "valid": 115,
+    "valid_rate": 0.575,
+    "field_accuracy": 0.575
+  },
+  "repaired": {
+    "valid": 200,
+    "valid_rate": 1.0,
+    "field_accuracy": 0.994
+  },
+  "per_defect": {
+    "prose-wrapper": {
+      "cases": 17,
+      "naive_valid": 0,
+      "repaired_valid": 17
+    },
+    "missing-field": {
+      "cases": 13,
+      "naive_valid": 0,
+      "repaired_valid": 13
+    },
+    "boolean-as-word": {
+      "cases": 16,
+      "naive_valid": 0,
+      "repaired_valid": 16
+    },
+    "clean": {
+      "cases": 115,
+      "naive_valid": 115,
+      "repaired_valid": 115
+    },
+    "trailing-comma": {
+      "cases": 19,
+      "naive_valid": 0,
+      "repaired_valid": 19
+    },
+    "number-as-string": {
+      "cases": 13,
+      "naive_valid": 0,
+      "repaired_valid": 13
+    },
+    "tags-as-string": {
+      "cases": 7,
+      "naive_valid": 0,
+      "repaired_valid": 7
+    }
+  }
+}

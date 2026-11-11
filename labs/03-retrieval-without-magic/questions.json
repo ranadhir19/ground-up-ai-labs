@@ -1,0 +1,132 @@
+[
+  {
+    "doc": "composting.md",
+    "kind": "direct",
+    "q": "What ratio of greens to browns should a compost pile have?"
+  },
+  {
+    "doc": "composting.md",
+    "kind": "direct",
+    "q": "Why does a compost pile smell of ammonia and how do you fix it?"
+  },
+  {
+    "doc": "bicycle-gears.md",
+    "kind": "direct",
+    "q": "How do you calculate a bicycle gear ratio from the chainring and sprocket?"
+  },
+  {
+    "doc": "bicycle-gears.md",
+    "kind": "direct",
+    "q": "What cadence should a cyclist keep when climbing?"
+  },
+  {
+    "doc": "espresso.md",
+    "kind": "direct",
+    "q": "What dose and yield ratio defines a standard espresso shot?"
+  },
+  {
+    "doc": "rainwater.md",
+    "kind": "direct",
+    "q": "What is a first-flush diverter for in a rainwater system?"
+  },
+  {
+    "doc": "beekeeping.md",
+    "kind": "direct",
+    "q": "How can you tell capped brood from capped honey on a frame?"
+  },
+  {
+    "doc": "sail-trim.md",
+    "kind": "direct",
+    "q": "What do telltales on a sail tell you about trim?"
+  },
+  {
+    "doc": "sourdough.md",
+    "kind": "direct",
+    "q": "How often should a sourdough starter be fed, and what is the float test?"
+  },
+  {
+    "doc": "solar-sizing.md",
+    "kind": "direct",
+    "q": "How many days of autonomy should a battery bank hold, and how is it sized?"
+  },
+  {
+    "doc": "soil-ph.md",
+    "kind": "direct",
+    "q": "What material lowers soil pH for acid-loving plants?"
+  },
+  {
+    "doc": "knots.md",
+    "kind": "direct",
+    "q": "Which knot forms a fixed loop that will not slip under load?"
+  },
+  {
+    "doc": "coffee-roasting.md",
+    "kind": "direct",
+    "q": "What is first crack in coffee roasting and what happens after it?"
+  },
+  {
+    "doc": "insulation.md",
+    "kind": "direct",
+    "q": "What does R-value measure in insulation?"
+  },
+  {
+    "doc": "pond-ecology.md",
+    "kind": "direct",
+    "q": "Why are pond fish found gasping at the surface early in the morning?"
+  },
+  {
+    "doc": "map-projections.md",
+    "kind": "direct",
+    "q": "Why does Greenland look as big as Africa on a Mercator map?"
+  },
+  {
+    "doc": "espresso.md",
+    "kind": "paraphrase",
+    "q": "My morning shot tastes sour and rushes out in ten seconds \u2014 what went wrong?"
+  },
+  {
+    "doc": "solar-sizing.md",
+    "kind": "paraphrase",
+    "q": "I need the lights and fridge to survive a long grey spell with barely any sun \u2014 how much stored power is enough?"
+  },
+  {
+    "doc": "soil-ph.md",
+    "kind": "paraphrase",
+    "q": "My blueberry bushes keep yellowing even though I feed them \u2014 what hidden soil property should I check?"
+  },
+  {
+    "doc": "pond-ecology.md",
+    "kind": "paraphrase",
+    "q": "The water in my garden pond turned green and cloudy a week after I started feeding the fish more \u2014 why?"
+  },
+  {
+    "doc": "kombucha.md",
+    "kind": "direct",
+    "q": "What is a SCOBY and what does it do in kombucha?"
+  },
+  {
+    "doc": "aquarium.md",
+    "kind": "direct",
+    "q": "Why should aquarium filter media be rinsed in tank water rather than tap water?"
+  },
+  {
+    "doc": "raised-beds.md",
+    "kind": "direct",
+    "q": "How deep should the soil in a raised bed be for root vegetables?"
+  },
+  {
+    "doc": "homebrewing.md",
+    "kind": "direct",
+    "q": "What does a hydrometer measure in homebrewing, and how does it give the alcohol content?"
+  },
+  {
+    "doc": "kombucha.md",
+    "kind": "paraphrase",
+    "q": "The jar on my counter smells vinegary and the culture in it looks stringy \u2014 is something wrong with it?"
+  },
+  {
+    "doc": "aquarium.md",
+    "kind": "paraphrase",
+    "q": "My tank water went cloudy straight after I replaced the filter sponges \u2014 did I break something?"
+  }
+]

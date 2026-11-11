@@ -1,0 +1,7 @@
+# Off-Grid Solar Sizing: Loads, Sun Hours and Storage
+
+Sizing an off-grid solar system starts with the load, not the panels. List everything that will draw power, its wattage, and the hours it runs each day: a 10-watt lamp for five hours is 50 watt-hours; a fridge cycling all day might be 800. Sum the daily watt-hours, then add a margin — a quarter is customary — for inverter losses, ageing panels and optimistic arithmetic. That daily figure, not the panel catalogue, is the size of your life off grid.
+
+Panel capacity follows from peak sun hours: the equivalent hours of full-strength sun your site receives per day, which might be five in a desert summer and under two in a northern winter. Divide the daily load by the worst month's sun hours — systems are sized for the worst month, not the average — to get the array wattage. A 1,500 watt-hour daily load under two peak sun hours needs at least 750 watts of panels before margins, and prudent designers round up, because cloudy weeks arrive in clusters.
+
+The battery bank is sized by days of autonomy: how long the system must run with essentially no solar input. Two to three days is the usual compromise between cost and resilience. Take the daily load, multiply by the days of autonomy, and divide by the depth of discharge you will actually use — half for lead-acid, up to 80 or 90 percent for lithium — and by the system voltage to get amp-hours. Undersized storage is the most common failure of amateur systems: the panels are blamed, but the bank simply empties by the second grey morning.

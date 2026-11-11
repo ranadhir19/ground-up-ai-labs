@@ -1,0 +1,7 @@
+# Espresso Extraction: Dose, Yield and Time
+
+Espresso is a ratio before it is a drink. The standard starting recipe is a 1:2 ratio — for example 18 grams of ground coffee producing 36 grams of liquid espresso — extracted in 25 to 30 seconds from the moment the pump starts. The dose goes in, the yield comes out, and the clock arbitrates: change one variable at a time or you will never know which change fixed the cup.
+
+Grind size is the main control. Too coarse and water rushes through the puck, giving a fast, thin, sharp-tasting shot: under-extraction, where acids dominate because the sugars and bitter compounds never had time to dissolve. Too fine and the shot drips slowly, tasting harsh and drying: over-extraction. The correct response to a fast, sour shot is to grind finer, not to tamp harder; tamping pressure should simply be level and consistent, because an uneven tamp lets water carve a single channel through the puck — channeling — which extracts one path thoroughly and the rest barely at all.
+
+Water temperature and freshness of the beans are the background variables. Most machines aim for 92 to 94 degrees Celsius at the group head. Beans are at their best roughly one to four weeks after roasting: fresher beans release so much carbon dioxide that the puck swells and resists unevenly, while stale beans extract flat no matter what the recipe says. Keep the ratio fixed, adjust the grind in small steps, and taste against the clock.

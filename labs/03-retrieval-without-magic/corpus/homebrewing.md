@@ -1,0 +1,7 @@
+# Homebrewing: Gravity, Yeast and Patience
+
+Brewers measure sugar with a hydrometer, a weighted float that reads the density of the wort — unfermented beer — against water. The reading before fermentation is the original gravity; the reading after is the final gravity; the difference, multiplied by a standard factor of about 131, gives the alcohol by volume. Two identical readings on consecutive days are also the brewer's proof that fermentation has truly finished, which matters greatly if the next step involves sealing the beer in bottles with priming sugar.
+
+Fermentation temperature is the variable beginners most often leave to chance, and it shows in the glass. Ale yeast working too warm throws fruity esters and harsh fusel alcohols; too cold and it stalls, leaving sweet, unfinished beer. Each strain has a working range — most ale yeasts are content between 18 and 22 degrees — and holding the fermenter steady inside it does more for the beer than any exotic ingredient added later.
+
+After bottling or kegging, beer conditions: residual yeast consumes the priming sugar, carbonates the beer in the vessel, and slowly tidies up its own by-products. Most ales need two weeks at room temperature before the fridge. Cleanliness rules everything upstream of that moment — anything touching cooled wort is sanitised, because the same sugars that feed yeast feed every wild microbe in the kitchen, and an infection announces itself weeks later as gushing bottles and sour beer.

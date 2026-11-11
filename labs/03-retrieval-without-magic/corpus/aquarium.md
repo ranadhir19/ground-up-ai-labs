@@ -1,0 +1,7 @@
+# Aquarium Keeping: The Filter Is the Life Support
+
+An aquarium filter is not a strainer; it is a farm. The sponges and ceramic media inside it house the bacteria that run the nitrogen cycle, converting fish waste from ammonia to nitrite to nitrate, and those colonies are the only thing standing between the fish and their own pollution. This is why filter media should be rinsed in water taken from the tank, never under the tap: chlorinated tap water kills the bacteria the whole system depends on, and a thoroughly cleaned filter can crash the cycle it was meant to serve.
+
+Cloudy water in a new tank is usually a bacterial bloom — the colonies multiplying in the water column because the media colonies are not yet established — and it resolves as the cycle matures. The same cloudiness in an established tank is a warning: something has died, been overfed, or the filter has been cleaned too well. The response is to test for ammonia, change part of the water, and leave the media alone.
+
+Stocking is paced by the bacteria, not by the size of the glass. A new aquarium takes on a few hardy fish, waits for the cycle to prove itself over weeks, and adds more only as the bacterial population grows to match. Water changes of a fifth to a quarter each week export the nitrate the cycle produces; plants absorb some, but no planted tank abolishes the water change. In fishkeeping, patience is not a virtue. It is the mechanism.
